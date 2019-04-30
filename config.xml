@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.example"
+versionCode = "22"
+version = "1.6.0" >
+<!-- nome della app -->
+<name>canzo</name>
+<!-- descrizione -->
+<description>
+corni di canzo
+</description>
+<!-- autore -->
+<author href="https://build.phonegap.com">
+Fatema Hasan
+</author>
+<!-- abilita links esterni -->
+<allow-navigation href="*://*.canossamilano.org/*" />
+
+<!-- piattaforma di riferimento ed icona della app -->
+<platform name="android">
+<icon src="img/icon.png" density="ldpi" />
+<icon src="img/icon.png" density="mdpi" />
+<icon src="img/icon.png" density="hdpi" />
+<icon src="img/icon.png" density="xhdpi" />
+</platform>
+</widget>
