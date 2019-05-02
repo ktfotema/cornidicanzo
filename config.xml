@@ -19,9 +19,9 @@ Fatema Hasan
 
 <!-- piattaforma di riferimento ed icona della app -->
 <platform name="android">
-<icon src="img/icon.png" density="ldpi" />
-<icon src="img/icon.png" density="mdpi" />
-<icon src="img/icon.png" density="hdpi" />
-<icon src="img/icon.png" density="xhdpi" />
+<icon src="icon.png" density="ldpi" />
+<icon src="icon.png" density="mdpi" />
+<icon src="icon.png" density="hdpi" />
+<icon src="icon.png" density="xhdpi" />
 </platform>
 </widget>
